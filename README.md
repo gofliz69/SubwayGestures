@@ -6,8 +6,6 @@ No hardware gloves, no ML training—just **MediaPipe**, **OpenCV**, and **pyaut
 
 https://github.com/<your-username>/SubwayGestures
 
-> Demo video: [YouTube link here]  
-> Short GIF: ![Demo GIF](demo/preview.gif)
 
 ---
 
